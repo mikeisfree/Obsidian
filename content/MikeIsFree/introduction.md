@@ -7,8 +7,13 @@ vault: mike
 ---
 ## Try to make it happen
 
-	lorem10 test if this will work
+#    lorem10 test if this will work
 
+```
+npx quartz sync --no-pull```
+
+
+```
 
 ## Why Use Markdown?[](https://www.markdownguide.org/getting-started/#why-use-markdown)
 
