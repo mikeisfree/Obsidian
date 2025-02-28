@@ -7,6 +7,7 @@ longform:
   scenes:
     - Readme
     - introduction
+    - How to Create
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---

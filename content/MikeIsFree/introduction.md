@@ -1,7 +1,8 @@
 ---
 title: '"w%  #p.file.title %m"'
 draft: false
-tags: []
+tags:
+  - tutorial
 ---
 ## Try to make it happen
 
