@@ -1,5 +1,5 @@
 ---
-title: '"w%  #p.file.title %m"'
+title: Note taking app
 draft: false
 tags: 
 vault: mike
