@@ -1,5 +1,5 @@
 ---
-title: '"w%  #p.file.title %m"'
+title: Dendron Guide
 draft: false
 tags:
   - dendron
