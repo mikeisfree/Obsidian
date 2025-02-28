@@ -1,3 +1,15 @@
+---
+title: '"w%  #p.file.title %m"'
+draft: false
+tags: 
+vault: mike
+---
+ 
+
+
+
+
+
 ```markdown
 # Template for Dendron Note Taking App
 

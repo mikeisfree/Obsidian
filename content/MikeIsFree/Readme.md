@@ -1,3 +1,16 @@
+---
+title: '"w%  #p.file.title %m"'
+draft: false
+tags: 
+vault: mike
+---
+ 
+
+
+
+
+
+
 Properties
 		hey this is
 

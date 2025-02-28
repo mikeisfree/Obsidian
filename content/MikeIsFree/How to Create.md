@@ -1,7 +1,8 @@
 ---
 title: Learn how to create an organic distortion effect for text using JavaScript and CSS for a unique, fluid animation.
 draft: false
-tags:
+tags: 
+vault: mike
 ---
  
 
