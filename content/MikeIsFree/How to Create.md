@@ -1,5 +1,5 @@
 ---
-title: Learn how to create an organic distortion effect for text using JavaScript and CSS for a unique, fluid animation.
+title: How to Create
 draft: false
 tags: 
 vault: mike
